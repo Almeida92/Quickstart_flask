@@ -18,7 +18,7 @@ def profile(username):
 def show_post(post_id):
     return 'Post %d' % post_id
 
-//URL 
+# URL 
 
 @app.route('/login')
 def login(): pass
